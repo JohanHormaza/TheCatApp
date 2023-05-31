@@ -1,0 +1,44 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "f4523551f5e3be609758c2e39823bd0bc15049270bed58e1a3bd326a70e13cbe"
+    }
+  ],
+  "containerPath" : "/Users/ionverse/Desktop/JohanServer_iOS/UploadedProjects/thecatsapp/B4iProject.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "configurationName" : "Release",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "ARCHS" : "x86_64",
+          "CODE_SIGNING_REQUIRED" : "NO",
+          "CONFIGURATION_BUILD_DIR" : "/Users/ionverse/Desktop/JohanServer_iOS/UploadedProjects/thecatsapp/Payload",
+          "PRODUCT_NAME" : "The Cats App",
+          "SDKROOT" : "iphonesimulator16.2"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
