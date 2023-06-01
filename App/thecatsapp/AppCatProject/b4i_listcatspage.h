@@ -24,7 +24,7 @@
 @public B4IImageViewWrapper* __imgcats;
 @public b4i_main* __main;
 @public b4i_httputils2service* __httputils2service;
-
+    
 }- (NSString*)  _addviewtokeyboard:(B4ITextFieldWrapper*) _textfield1 :(B4IViewWrapper*) _view1;
 - (NSString*)  _btndone_click;
 - (void)  _consultlistcats;
@@ -58,7 +58,7 @@
 @public NSString* _DescriptionCat;
 @public int _ID;
 @public NSString* _imageFile;
-
+    
 }
 @property (nonatomic)BOOL IsInitialized;
 @property (nonatomic)NSString* nameRazaCat;

@@ -27,7 +27,7 @@
 @public NSString* __stringposts;
 @public b4i_httputils2service* __httputils2service;
 @public b4i_listcatspage* __listcatspage;
-
+    
 }- (void)  _animations;
 - (void)  _application_start:(B4INavigationControllerWrapper*) _nav;
 - (void)  _page_resize:(int) _width :(int) _height;

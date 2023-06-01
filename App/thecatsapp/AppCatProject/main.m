@@ -1,9 +1,6 @@
 //
 //  main.m
-//  Test5
-//
-//  Created by b4j on 7/17/14.
-//  Copyright (c) 2014 Anywhere Software. All rights reserved.
+//  Johan Hormaza
 //
 
 #import <UIKit/UIKit.h>
